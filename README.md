@@ -1,3 +1,3 @@
 # First-Try
-HandsOn Start for the first time 
-Author Puja N
+HandsOn Start for the first time.
+Author - Puja N
